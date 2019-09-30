@@ -1,0 +1,12 @@
+body
+{
+    background-image: url("./img/dwight5.jpg");
+    background-repeat: repeat,no-repeat;
+    background-size: 600px,cover;
+    margin: 50px auto;
+    max-width: 200px;
+}
+p
+{
+    background-color:#EEE;
+}
